@@ -7,3 +7,6 @@
 https://qiita.com/tbpgr/items/989c6badefff69377da7
 
 VScodeとかAtomあたりのMarkdownのプレビューが見れるエディタを使うと便利
+VSCodeはいいぞ
+
+
